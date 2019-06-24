@@ -5,7 +5,11 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 1. Coates:
 <br>$$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $$
 <br>式中：
-<br>& K_{Coates} &——xxx
-<br>& \phi &——孔隙度
+<br>$ K_{Coates} $——xxx
+<br>$ \phi $——孔隙度
+<br>C、m、n——常数
+<br>BVM——xxx
+<br>BVI——xxx
+<br>2. 几何均值模型$T_{2GM}\ Model$:
 <br>
 <br>
