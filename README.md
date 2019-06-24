@@ -19,7 +19,7 @@
 <br>$$K={(\frac{\phi}{C})}^m{(\frac{P\cdot BVM}{BVI+(1-P)\cdot BVM})}^n$$
 <br>式中：
 <br>K——xxx
-$$\phi$$——孔隙度
+<br>$$\phi$$——孔隙度
 <br>C、m、n——常数
 <br>P——xxx
 <br>BVM——xxx
