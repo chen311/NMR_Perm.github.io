@@ -11,5 +11,25 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 <br>BVM——xxx
 <br>BVI——xxx<br>
 2. 几何均值模型$$T_{2GM}\ Model$$:
-<br>
+<br>$$K_{T_{2GM}\ }=C{(\phi)}^m{(T_{2GM})}^n$$
+<br>式中：
+<br>$$K_{T_{2GM}\ }$$——xxx
+<br>C、m、n——常数
+<br>$$\phi$$——孔隙度
+<br>$$T_{2GM}$$——xxx<br>
+3. Pore Connectivity Model 孔隙连通性模型:
+<br>$$K={(\frac{\phi}{C})}^m{(\frac{P\bulletBVM}{BVI+(1-P)\bulletBVM})}^n$$
+<br>式中：
+<br>K——xxx
+<br>$$\phi$$——孔隙度
+<br>C、m、n——常数
+<br>P——xxx
+<br>BVM——xxx
+<br>BVI——xxx<br>
+4. Isolated Vug Model 孤立孔洞模型:
+<br>$$K_{vuggy}=4.75\bullet∅<7504∙T2LM,<7502$$
+<br>式中：
+<br>$$K_{vuggy}$$——xxx
+<br>$$\phi_{<750}$$——xxx
+<br>$$T_{2LM,<750}^2$$——xxx
 <br>
