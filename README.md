@@ -6,7 +6,7 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 
 1. Coates:
 
-<br>$$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $$
+$$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $$
 
 <br>式中：
 
