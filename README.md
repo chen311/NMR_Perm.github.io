@@ -1,3 +1,11 @@
+<STYLE type=text/css>
+<!--
+body,td,th {
+letter-spacing: 2px;
+line-height: 18px;
+}
+-->
+</STYLE>
 # <center>Formulation</center>
 <script type="text/javascript"
 src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
@@ -18,7 +26,7 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 <br>$$\phi$$——孔隙度
 <br>$$T_{2GM}$$——xxx<br>
 3. Pore Connectivity Model 孔隙连通性模型:
-<br>$$K={(\frac{\phi}{C})}^m{(\frac{P\bulletBVM}{BVI+(1-P)\bulletBVM})}^n$$
+<br>$$K={(\frac{\phi}{C})}^m{(\frac{P\cdot BVM}{BVI+(1-P)\cdot BVM})}^n$$
 <br>式中：
 <br>K——xxx
 <br>$$\phi$$——孔隙度
@@ -27,9 +35,9 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 <br>BVM——xxx
 <br>BVI——xxx<br>
 4. Isolated Vug Model 孤立孔洞模型:
-<br>$$K_{vuggy}=4.75\bullet∅<7504∙T2LM,<7502$$
+<br>$$K_{vuggy}=4.75\cdot (\phi _{< 750})^{4}\cdot {T_{2LM,< 750}^{2}}$$
 <br>式中：
 <br>$$K_{vuggy}$$——xxx
 <br>$$\phi_{<750}$$——xxx
 <br>$$T_{2LM,<750}^2$$——xxx
-<br>
+
