@@ -8,58 +8,58 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 
 $$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $$
 
-<br>式中：
+式中：
 
-<br>$$K_{Coates}$$——xxx
+$$K_{Coates}$$——xxx
 
-<br>$$\phi$$——孔隙度
+$$\phi$$——孔隙度
 
-<br>C、m、n——常数
+C、m、n——常数
 
-<br>BVM——xxx
+BVM——xxx
 
-<br>BVI——xxx<br>
+BVI——xxx
 
 2. 几何均值模型$$T_{2GM}\ Model$$:
 
-<br>$$K_{T_{2GM}\ }=C{(\phi)}^m{(T_{2GM})}^n$$
+$$K_{T_{2GM}\ }=C{(\phi)}^m{(T_{2GM})}^n$$
 
-<br>式中：
+式中：
 
-<br>$$K_{T_{2GM}\ }$$——xxx
+$$K_{T_{2GM}\ }$$——xxx
 
-<br>C、m、n——常数
+C、m、n——常数
 
-<br>$$\phi$$——孔隙度
+$$\phi$$——孔隙度
 
-<br>$$T_{2GM}$$——xxx<br>
+$$T_{2GM}$$——xxx
 
 3. Pore Connectivity Model 孔隙连通性模型:
 
-<br>$$K={(\frac{\phi}{C})}^m{(\frac{P\cdot BVM}{BVI+(1-P)\cdot BVM})}^n$$
+$$K={(\frac{\phi}{C})}^m{(\frac{P\cdot BVM}{BVI+(1-P)\cdot BVM})}^n$$
 
-<br>式中：
+式中：
 
-<br>K——xxx
+K——xxx
 
-<br>$$\phi$$——孔隙度
+$$\phi$$——孔隙度
 
-<br>C、m、n——常数
+C、m、n——常数
 
-<br>P——xxx
+P——xxx
 
-<br>BVM——xxx
+BVM——xxx
 
-<br>BVI——xxx<br>
+BVI——xxx<br>
 
 4. Isolated Vug Model 孤立孔洞模型:
 
-<br>$$K_{vuggy}=4.75\cdot (\phi _{< 750})^{4}\cdot {T_{2LM,< 750}^{2}}$$
+$$K_{vuggy}=4.75\cdot (\phi _{< 750})^{4}\cdot {T_{2LM,< 750}^{2}}$$
 
-<br>式中：
+式中：
 
-<br>$$K_{vuggy}$$——xxx
+$$K_{vuggy}$$——xxx
 
-<br>$$\phi_{<750}$$——xxx
+$$\phi_{<750}$$——xxx
 
-<br>$$T_{2LM,<750}^2$$——xxx
+$$T_{2LM,<750}^2$$——xxx
