@@ -5,9 +5,9 @@ $$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $
 
 式中：
 
-$$K_{Coates}$$——xxx
+$K_{Coates}$——xxx
 
-$$\phi$$——孔隙度
+$\phi$——孔隙度
 
 C、m、n——常数
 
@@ -15,13 +15,13 @@ BVM——xxx
 
 BVI——xxx
 
-- 几何均值模型$$T_{2GM}\ Model$$:
+- 几何均值模型$T_{2GM}\ Model$:
 
 $$K_{T_{2GM}\ }=C{(\phi)}^m{(T_{2GM})}^n$$
 
 式中：
 
-$$K_{T_{2GM}\ }$$——xxx
+$K_{T_{2GM}\ }$——xxx
 
 C、m、n——常数
 
