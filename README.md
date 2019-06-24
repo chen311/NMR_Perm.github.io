@@ -15,7 +15,7 @@
 3. Pore Connectivity Model 孔隙连通性模型:
 <br><a href="https://www.codecogs.com/eqnedit.php?latex=K=(\frac{\phi&space;}{C})^{m}\cdot&space;(\frac{P&space;\cdot&space;BVM}{BVI&plus;(1-P&space;)\cdot&space;BVM})^{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?K=(\frac{\phi&space;}{C})^{m}\cdot&space;(\frac{P&space;\cdot&space;BVM}{BVI&plus;(1-P&space;)\cdot&space;BVM})^{n}" title="K=(\frac{\phi }{C})^{m}\cdot (\frac{P \cdot BVM}{BVI+(1-P )\cdot BVM})^{n}" /></a>
 <br>式中：
-K——xxx
+<br>K——xxx
 <br>C、m、n——常数
 <br><a href="https://www.codecogs.com/eqnedit.php?latex=\emptyset" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emptyset" title="\emptyset" /></a> —— 孔隙度
 <br>BVM——xxx
