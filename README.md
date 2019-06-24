@@ -1,5 +1,5 @@
 # <center>Formulation</center>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+﻿<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 -Coates:
 <br>$$ K_{Coates}=({\frac{\phi }{C})}^m({\frac{BVM}{BVI})}^n\ default:C=10,m=4,n=2 $$
 <br>式中：
@@ -8,7 +8,7 @@
 <br>C、m、n——常数
 <br>BVM——xxx
 <br>BVI——xxx<br>
-- 几何均值模型$T_{2GM}\ Model$:
+- 几何均值模型$$T_{2GM}\ Model$$:
 <br>$$K_{T_{2GM}\ }=C{(\phi)}^m{(T_{2GM})}^n$$
 <br>式中：
 <br>$$K_{T_{2GM}\ }$$——xxx
